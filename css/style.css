@@ -14,3 +14,12 @@
     --border:#284867;
 
 }
+body{
+
+    background:var(--bg);
+
+    color:var(--white);
+
+    font-family:'Inter',sans-serif;
+
+}
