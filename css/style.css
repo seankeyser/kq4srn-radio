@@ -175,14 +175,10 @@ body{
 
 }
 
-.hero-logo{
-
-    max-width:340px;
-
-    margin-bottom:35px;
-
-    filter:drop-shadow(0 0 20px rgba(30,167,255,.35));
-
+.hero-logo {
+    max-width: 220px;
+    margin-bottom: 30px;
+    filter: drop-shadow(0 0 20px rgba(30,167,255,.35));
 }
 
 .hero-subtitle{
